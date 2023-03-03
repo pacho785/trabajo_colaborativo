@@ -1,0 +1,45 @@
+.img{
+    background-color: rgb(0, 0, 0,0.8);
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+img{
+    -shadow: 0 0 10px rgb(255, 248, 248);
+}
+h1{
+    text-align: center;
+}
+.ESPAN{
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 6px rgb(255, 248, 248);
+}
+body{
+    background-image: url(../IMAGES/1404.jpg);
+    background-size: 40%;
+}
+.html1{
+    background-image: url(https://cdn.pixabay.com/photo/2021/02/11/00/13/anime-6003883_1280.jpg);
+}
+.nose{
+    color: white;
+    background-color: rgb(255, 115, 0);
+}
+table {
+    color: gold;
+    background-color: black;
+    border-radius: 15px;
+    justify-content: center;
+    border-color: rgb(165, 99, 0);
+    border-radius: 2%;
+    border:15px ridge rgb(255, 123, 0);
+    margin-left:  30%;
+    margin-right:  30%;
+}
